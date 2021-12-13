@@ -34,4 +34,6 @@ header{
 }
 footer{
     background-color: var(--light-color);
+    color: yellowgreen;
+    text-align: center;
 }
