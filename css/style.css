@@ -31,3 +31,6 @@ html{
 header{
     background-color: var(--light-bg);
 }
+footer{
+    background-color: var(--light-color);
+}
