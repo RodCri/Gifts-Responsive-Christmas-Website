@@ -30,4 +30,5 @@ html{
 }
 header{
     background-color: var(--light-bg);
+    color: var(--red);
 }
